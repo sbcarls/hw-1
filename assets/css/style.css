@@ -50,7 +50,7 @@ p {
     font-size: 16px;
 }
 
-.hero {
+.meeting {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -70,7 +70,7 @@ p {
     margin-right: 25px;
 }
 
-.content {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
