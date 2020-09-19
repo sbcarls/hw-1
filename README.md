@@ -4,7 +4,7 @@
 
 URL to website:
 
-https://1drv.ms/u/s!AiaHzDVYhtWPjXNgT1--25jllq8U?e=cpBCXE
+file:///C:/Users/sbcar/OneDrive/Documents/Bootcamp/Homework/hw-1/index.html
 
 
 Screenshots of my page:
