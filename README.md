@@ -4,7 +4,7 @@
 
 URL to website:
 
-file:///C:/Users/sbcar/OneDrive/Documents/Bootcamp/Homework/hw-1/index.html
+https://sbcarls.github.io/hw1-code-refactor/
 
 
 Screenshots of my page:
