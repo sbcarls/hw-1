@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Removed div, replaced with header */
+/* Replaced div with header tag */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -25,6 +25,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Replaced div with nav */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -51,7 +52,7 @@ p {
     font-size: 16px;
 }
 
-/* Changed hero to hero-image */
+/* changed div to figure, and class hero to hero-image */
 .hero-image {
     height: 800px;
     width: 100%;
@@ -61,25 +62,25 @@ p {
     background-position: center;
 }
 
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
 
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-/* Changed from div content to main */
-main {
+/*Changed div to main, and class from content to main-content */
+.main-content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.benefits {
+/* changed div to aside */
+.aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -90,21 +91,26 @@ main {
     background-color: #2589bd;
 }
 
-/* Grouped together */
-.benefits-lead, .benefits-brand, .benefits-cost {
+/* Combined like-styled groups */
+.benefits {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/* Grouped all h3 styling together */
-h3 {
+/* Combined like-styled groups */
+.benefits h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+/* Combined like-styled groups */
+.benefits img {
     display: block;
     margin: 10px auto;
-    max-width: 50px;
+    max-width: 150px;
 }
 
-/* Grouped together, changed div to section */
-.search-engine-optimization, .online-reputation-management, .social-media-marketing {
+/*changed div to section-content, grouped same styles together */
+.section-content {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -113,18 +119,18 @@ h3 {
     color: #ffffff;
 }
 
-/* Grouped together, changed div to section */
-.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
+/*changed div to section-content, grouped same styles together */
+.section-content img {
     max-height: 200px;
 }
 
-/* Grouped all h2 styling together */
-h2 {
+/*changed div to section-content, grouped same styles together */
+.section-content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/* Removed div, replaced with footer */
+/* changed div class footer to footer tag */
 footer {
     padding: 30px;
     clear: both;
@@ -132,6 +138,7 @@ footer {
     text-align: center;
 }
 
-footer p {
+/*changed h2 to h4 */
+footer h4 {
     font-size: 20px;
 }
