@@ -1,6 +1,6 @@
-# hw-1
-Homework 1
-## This homework assignment focused on code refactoring of pre-existing html and css files. Replaced divs with semantic elements. Added a nav bar to the header. Increased accessibility by adding alt text to images. Grouped together tags with similar CSS styling to reduce repeated information. 
+# hw1-code-refactor
+
+## This homework assignment focused on code refactoring of a pre-existing html and css file. What I did: replaced divs with semantic elements, added a nav bar to the header, increased accessibility by adding alt text to images, and grouped together tags with similar CSS styling to reduce repeated information. 
 
 URL to website:
 
